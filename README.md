@@ -1,6 +1,7 @@
 # Lista-Pokemon-Projeto
 
 ## Projeto de listagem Pokemon com breve descrição 😎
+## Pokemon listing project with short description 😎
 
  <div>
    <a href="https://github.com/DevNomah">
